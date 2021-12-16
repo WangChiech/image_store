@@ -1,2 +1,3 @@
 # reading-notes
-读书笔记暂存处
+
+图床：基于 PicGo
